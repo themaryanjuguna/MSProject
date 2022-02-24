@@ -1,12 +1,22 @@
 img {
     float: left;
+    width: 300px;
+    margin: 0 10px 5px 5px;
 }
 body{
-    background: lightcyan;
+    background: rgb(255, 212, 183);
 }
 
 .sidebar {
     width: 30%;
     float: right;
     background-color: yellow;
+    margin: 20px;
+    padding: 20px;
+  }
+  #body{
+    width: 60%;
+    margin: 20px;
+    padding: 20px;
+
   }

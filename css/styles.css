@@ -1,0 +1,27 @@
+.intro {
+    font-style: italic;
+}
+
+.author {
+    color: red;
+  }
+  p.author {
+    font-size: 12px;
+  }
+  .line1 {
+    color: red;
+  }
+  #line2 {
+    color: red;
+  }
+  
+.important {
+  color: red;
+}
+.unimportant {
+  color: blue;
+}
+.cat-climate {
+  background-color: yellow;
+}
+  

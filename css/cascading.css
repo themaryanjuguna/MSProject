@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    width: 95%;
+    padding: 20px;
+    margin: 20px;
+}
+
+.cats p {
+    background-color: coral;
+}
+
+.dogs p {
+    background-color: rgb(0, 132, 240);
+}
+
+  .dogs p a {
+    font-weight: bold;
+}
+
+a {
+    font-weight: normal;
+}
+
+  img{
+    float: left;
+    padding: 10px;
+}
